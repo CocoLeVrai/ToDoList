@@ -62,6 +62,4 @@ document.getElementById('AddTaskBtn').addEventListener('click', () => {
         document.getElementById("NoTaskMsg").style.display = "block"
     }
 
-    
-
 });
