@@ -97,10 +97,6 @@ body{
     transition: all 100ms ease-in-out;
 }
 
-.TaskCheckbox:checked{
-
-}
-
 #NoTaskMsg{
 
     margin: auto;
